@@ -1,4 +1,4 @@
-<h1>Books, Guides and tools</h1> <br>
+<h1>Books, Guides and Tools</h1> <br>
 <p>A list of books that I've read and used in the past. Most of these are specific to penetration testing, but there are others.</p>
 <p>This is work in progress...</p>
 

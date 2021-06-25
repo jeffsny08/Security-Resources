@@ -7,6 +7,7 @@
     <li><a href="https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/ref=pd_bxgy_img_2/147-9859984-3258507?pd_rd_w=CFq2z&pf_rd_p=fd3ebcd0-c1a2-44cf-aba2-bbf4810b3732&pf_rd_r=3P2JB6QPXDE5X8Y8M7MF&pd_rd_r=948d990b-7be8-4049-bb3b-6555d2c91f0e&pd_rd_wg=TgNqS&pd_rd_i=1593271441&psc=1">Hacking: The Art of Exploitation</a></li>
     <li><a href="https://www.amazon.com/Practical-IoT-Hacking-Fotios-Chantzis/dp/1718500904/ref=pd_day0_14/147-9859984-3258507?pd_rd_w=us4l6&pf_rd_p=332cbe83-5720-4c84-9ab5-eda1dcf8d7b4&pf_rd_r=3V1CM5PH200RYFSCWM1Y&pd_rd_r=e6dc95fd-7784-4397-959b-b2424e8b301e&pd_rd_wg=np5UM&pd_rd_i=1718500904&psc=1">Practical IoT Hacking</a></li>
     <li><a href="https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=sr_1_10?dchild=1&keywords=python+pentesting&qid=1624629627&s=books&sr=1-10">Black Hat Python</a></li>
+    <li><a href="https://www.amazon.com/dp/1617294136/ref=sspa_dk_detail_0?psc=1&pd_rd_i=1617294136p13NParams&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWkNFN1UyQkFERlpQJmVuY3J5cHRlZElkPUEwMTgxMjMyRUVaUFZOUDFKNEtSJmVuY3J5cHRlZEFkSWQ9QTA1OTk5OTA3Rk04VTdUNVMzNjImd2lkZ2V0TmFtZT1zcF9kZXRhaWwyJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==">Securing DevOps</a></li>
     <li><a href="https://www.amazon.com/Cuckoos-Egg-Stoll-Cliff-Paperback/dp/B008AU5232/ref=sr_1_2?dchild=1&keywords=The+Cuckoo%27s+egg&qid=1624629760&s=books&sr=1-2">The Cuckoo's Egg</a></li>
   </ul>
 
